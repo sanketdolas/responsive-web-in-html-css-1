@@ -1,0 +1,450 @@
+.maddy{
+    height: 70px;
+    width: 100%;
+    float: left;
+    /* background-color: aqua; */
+}
+
+.maddy h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 27px;
+
+}
+
+.maddy1{
+    height: 70px;
+    width: 50%;
+    float: right;
+    /* background-color: rgb(115, 0, 255); */
+}
+
+.maddy1 ul li{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 1%;
+}
+.maddy1 ul li:nth-child(1){
+    margin-left: 200px;
+}
+.maddy2{
+    height: 650px;
+    width: 100%;
+    float: left;
+    /* background-color: aqua; */
+    background-image: url(https://images.unsplash.com/photo-1536694174218-92a1d79a0ca5?q=80&w=1294&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.);
+}
+
+.maddy2 h1{
+    font-size: 30px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 15%;
+    margin-left: 20px;
+}
+
+.maddy2 p{
+    color: white;
+    margin-left: 20px;
+}
+button{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.maddy3{
+    height: 600px;
+    width: 100%;
+    float: left;
+    /* background-color: rgb(115, 0, 255); */
+}
+.maddy4{
+    height: 200px;
+    width: 100%;
+    float: left;
+    /* background-color: aqua; */
+}
+.maddy5{
+    height: 400px;
+    width: 100%;
+    float: left;
+    /* background-color: rgb(0, 255, 76); */
+}
+.maddy4 h1{
+    margin-left: 37%;
+    margin-top: 5%;
+}
+.maddy4 p{
+    margin-left: 43%;
+    /* margin-top: %; */
+}
+.maddy6{
+    height: 400px;
+    width: 25%;
+    float: left;
+    /* background-color: rebeccapurple; */
+}
+
+.maddy6 img{
+    height: 70px;
+    width: 70px;
+    margin-top: 15%;
+    margin-left: 30%;
+    box-shadow: 0px 1px 10px 6px grey;
+}
+.maddy6 h1{
+    font-size: 20px;
+    margin-left: 30%;
+}
+
+.maddy6 h2{
+    font-size: 15px;
+    margin-left: 25px;
+    margin-top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.maddy7{
+    height: 700px;
+    width: 100%;
+    float: left;
+    background-color:rgb(247, 243, 243) ;
+}
+.maddy8{
+    height: 700px;
+    width: 50%;
+    float: left;
+    /* background-color: aqua; */
+}
+.maddy8 img{
+    margin-top: 20%;
+    box-shadow: 0px 1px 10px 6px grey;
+}
+.maddy8 h1{
+    margin-top: 25%;
+    margin-left: 10%;
+}
+.maddy8 h5{
+    margin-left: 10%;
+}
+
+.maddy8 button{
+    margin-left: 10%;
+    background-color: black;
+    color: white;
+}
+
+.maddy8 button:hover{
+    background-color:rgb(211, 211, 211) ;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
+}
+
+.maddy9{
+    height: 900px;
+    width: 100%;
+    float: left;
+    background-color: rgb(255,255,255);
+}
+.maddy10{
+    height: 250px;
+    width: 100%;
+    float: left;
+    /* background-color: rebeccapurple; */
+}
+
+.maddy10 h1{
+    text-align: center;
+    margin-top: 5%;
+}
+.maddy10 h4{
+    text-align: center;
+}
+
+.maddy11{
+    height: 500px;
+    width: 20%;
+    float: left;
+    background-color: rgb(255,255,255);
+    margin-left: 60px;
+    box-shadow: 0px 1px 10px 6px grey;
+}
+.maddy11 img{
+    height: 200px;
+    width: 100%;
+}
+
+.maddy11:hover{
+    box-shadow: 0px 1px 10px 6px aliceblue;
+}
+
+.maddy11 h1{
+    margin-left: 10%;
+    font-size: 20px;
+}
+.maddy11 h3{
+    margin-left: 10%;
+    font-size: 13px;
+    opacity: 0.6;
+}
+
+.maddy11 p{
+    margin-left: 10%;
+    font-size: 15px;
+}
+
+.maddy11 button{
+    height: 50px;
+
+}
+
+.maddy11 button:hover{
+    box-shadow: 0px 1px 10px 6px grey;
+
+}
+
+.maddy12{
+    height: 200px;
+    width: 100%;
+    float: left;
+    background-color: rgb(97,97,97);
+}
+.maddy12 h1{
+    display: inline-block;
+    /* word-spacing: 200px; */
+    margin-left: 220px;
+    font-size: 20px;
+    margin-top: 6%;
+    color: white;
+}
+.maddy13{
+    height: 800px;
+    width: 100%;
+    float: left;
+    /* background-color: aliceblue; */
+}
+
+.maddy14{
+    height: 300px;
+    width: 100%;
+    float: left;
+    /* background-color: aqua; */
+}
+
+.maddy14 h1{
+    text-align: center;
+    margin-top: 8%;
+    font-size: 20px;
+}
+.maddy13 img{
+   float: left;
+   margin-left: 30px;
+   height: 220px;
+   margin-top: 10px;
+   box-shadow: 0px 1px 8px 6px rgb(193, 192, 192);
+}
+.maddy15{
+    height: 350px;
+    width: 100%;
+    float: left;
+    background-color: rgb(241,241,241);
+}
+.maddy16{
+    height: 350px;
+    width: 50%;
+    float: left;
+    /* background-color: aqua; */
+}
+
+.maddy16 h1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.maddy16 h4{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.maddy16 h3{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.maddy17{
+    height: 30px;
+    width: 45%;
+    float: left;
+    background-color: rgb(170, 170, 170);
+
+}
+
+.maddy18{
+    height: 30px;
+    width: 80%;
+    float: left;
+    background-color: rgb(58, 58, 58);
+
+}
+
+.maddy15 h3{
+    margin-left: 50px;
+}
+
+.maddy18 h6{
+    margin-left: 50%;
+    position: relative;
+    bottom: 17px;
+    color: aliceblue;
+}
+
+.maddy19{
+    height: 900px;
+    width: 100%;
+    float: left;
+    background-color: rgb(97,97,97);
+}
+
+.maddy20{
+    height: 300px;
+    width: 100%;
+    float: left;
+    /* background-color: rgb(255, 0, 0); */
+}
+
+.maddy20 h3{
+    text-align: center;
+    margin-top: 8%;
+    color: white;
+}
+
+.maddy21{
+    height: 500px;
+    width: 30%;
+    float: left;
+    background-color: white;
+    margin-left: 2%;
+}
+.maddy24{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+
+.maddy22{
+    height: 550px;
+    width: 30%;
+    float: left;
+    background-color: white;
+    margin-left: 2%;
+    position: relative;
+    bottom: 30px;
+}
+
+.maddy23{
+    height: 500px;
+    width: 30%;
+    float: left;
+    background-color: white;
+    margin-left: 2%;
+}
+
+.maddy25{
+    height: 130px;
+    width: 100%;
+    float: left;
+    background-color: rgb(255, 2, 2);
+}
+
+.maddy26{
+    height: 80px;
+    width: 100%;
+    border: 2px solid black;
+}
+
+.maddy26 button{
+    height: 30px;
+    width: 70px;
+    margin-left: 160px;
+    position: relative;
+    bottom: 15px;
+    background-color: black;
+    color: white;
+}
+
+.maddy26 h6{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.maddy27{
+    height: 800px;
+    width: 100%;
+    float: left;
+    background-color: rgb(241,241,241);
+}
+.maddy28{
+    height: 300px;
+    width: 100%;
+    float: left;
+    /* background-color: aqua; */
+
+}
+
+.maddy28 h4{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+.maddy27 h1{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.maddy27 input{
+    height: 40px;
+    width: 100%;
+    margin-top: 15px    ;
+}
+
+.maddy27 button{
+    height: 40px;
+    width: 130px;
+    background-color: black;
+    border-radius: 0%;
+    color: white;
+}
+.maddy29{
+    height: 700px;
+    width: 100%;
+    float: left;
+    background-image:url(https://www.w3schools.com/w3images/map.jpg);
+    background-size: 80% 100%;
+    filter: grayscale(0.6);
+}
+.maddy30{
+    height: 400px;
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+.maddy31{
+    height: 120px;
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+
+.maddy30 button{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.maddy30 button:hover{
+    background-color: red;
+    color: white;
+}
